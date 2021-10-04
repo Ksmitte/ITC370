@@ -1,0 +1,15 @@
+/* Kyler Smith - Pretty About You - 10/04/2021 */
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 12;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
+    border-color: black;
+}
+
+p {
+    color:chocolate;
+    font-family: 'Times New Roman', Times, serif;
+}
